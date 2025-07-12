@@ -1,0 +1,3 @@
+This folder contains etching ready  PDFSfor the wall sensor atatchment and maainboard for the robot, This is designed as an alternative to dual layer PCB manufacturing because that costs a lot (to ship to sri lanka costs a fortune). DIY pcb eching has limits such as wider pcb traces, due to this and the pcb size constrains for a small bot some traces were not routed, So you'd have to wire them yourself.
+
+Print the PDFs as is and flip the pcbs so the wholes are aligned and you have a double layered pcb, you have to solder both sides of the pcbs when soldering through hole components (professional pcb  manufactures connect the two layers on holes and vias) and in vias you'd have to put a conductive wire through the via hole and solder both sides 
