@@ -1,0 +1,1 @@
+Folder has DIY etching ready PCBS for The bot, If u need to change paths or find out which conecions needs to  be wired by hand (due to diy pcb limitations) checkout the Kicad pcb referenecs.
